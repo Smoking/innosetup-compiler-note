@@ -1,28 +1,28 @@
 {
   "name": "innosetup-compiler-note",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Node wrapper to compile inno setup scripts (.iss)",
   "main": "lib/iscc.js",
   "bin": {
-    "innosetup-compiler": "./lib/iscc"
+    "innosetup-compiler-note": "./lib/iscc"
   },
-  "homepage": "https://github.com/Smoking/innosetup-compiler-note.git",
+  "homepage": "http://172.20.10.91/desktop/innosetup-compiler-note.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Smoking/innosetup-compiler-note.git"
+    "url": "http://172.20.10.91/desktop/innosetup-compiler-note.git"
   },
   "author": {
     "name": "lihe_li",
-    "email": "287482894@qq.com",
-    "url": "http://287482894.com"
+    "email": "lihe_li@Kingdee.com",
+    "url": "http://172.20.10.91/desktop/innosetup-compiler-note.git"
   },
   "bugs": {
-    "url": "https://github.com/Smoking/innosetup-compiler-note.git/issues"
+    "url": "http://172.20.10.91/desktop/innosetup-compiler-note.git/issues"
   },
   "licenses": [
     {
       "type": "Open Source",
-      "url": "https://github.com/Smoking/innosetup-compiler-note.git/blob/master/LICENSE"
+      "url": "http://172.20.10.91/desktop/innosetup-compiler-note.git/blob/master/LICENSE"
     }
   ],
   "engines": {
