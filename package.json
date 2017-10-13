@@ -6,10 +6,10 @@
   "bin": {
     "innosetup-compiler": "./lib/iscc"
   },
-  "homepage": "https://github.com/felicienfrancois/node-innosetup-compiler",
+  "homepage": "https://github.com/Smoking/innosetup-compiler-note.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/felicienfrancois/node-innosetup-compiler.git"
+    "url": "https://github.com/Smoking/innosetup-compiler-note.git"
   },
   "author": {
     "name": "lihe_li",
@@ -17,12 +17,12 @@
     "url": "http://287482894.com"
   },
   "bugs": {
-    "url": "https://github.com/felicienfrancois/node-innosetup-compiler/issues"
+    "url": "https://github.com/Smoking/innosetup-compiler-note.git/issues"
   },
   "licenses": [
     {
       "type": "Open Source",
-      "url": "https://github.com/felicienfrancois/node-innosetup-compiler/blob/master/LICENSE"
+      "url": "https://github.com/Smoking/innosetup-compiler-note.git/blob/master/LICENSE"
     }
   ],
   "engines": {
