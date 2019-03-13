@@ -12,22 +12,15 @@
     "url": "https://github.com/Smoking/innosetup-compiler-note.git"
   },
   "author": {
-    "name": "lihe_li",
-    "email": "lihe_li@Kingdee.com",
-    "url": "https://github.com/Smoking/innosetup-compiler-note.git"
+    "name": "Smoking"
   },
   "bugs": {
     "url": "https://github.com/Smoking/innosetup-compiler-note.git/issues"
   },
-  "licenses": [
-    {
-      "type": "Open Source",
-      "url": "https://github.com/Smoking/innosetup-compiler-note.git/blob/master/LICENSE"
-    }
-  ],
   "engines": {
     "node": ">= 0.8.0"
   },
+  "license": "MIT",
   "readmeFilename": "README.md",
   "keywords": [
     "inno",
